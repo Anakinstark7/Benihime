@@ -1,0 +1,118 @@
+body{
+    background-color: #1e6182;
+  }
+  
+  
+  /* header */
+  a{
+    text-decoration: none;
+    color:beige;
+  }
+  header {
+    background-color: #1363DF;
+    color: #fff;
+    padding: 3px;
+    display: flex;
+    justify-content: space-between;
+  }
+  nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    padding-top: 7px;
+    padding-left: 200px;
+  }
+  nav ul li {
+    margin-right: 35px;
+  }
+  
+  
+  
+  /*ecriture*/
+  h1{
+    color: #fff;
+    padding: 21px;
+    text-align: center;
+    padding-top: 99px;
+  }
+  h2{
+    text-align: center;
+    padding-left: 400px;
+  }
+  .t3{
+    padding-top: 140px;
+  }
+  .i6{
+    padding-top: 210px;
+  }
+  .e{
+    padding-left: 21px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  /*my services*/
+  
+  .container {
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    justify-content: space-between;
+    padding-top: 121px;
+  }
+  
+  .clickable-image {
+    cursor: pointer;
+  }
+  
+  .div-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 77px;
+  }
+  
+  .hidden-div {
+    display: none;
+    margin-top: 20px;
+    text-align: left;
+    
+  }
+  
+  
+  
+  
+  /* contact */
+  .Contact ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+    padding-bottom: 50px;
+   
+  }
+  .Contact ul li {
+    margin-right: 35px;
+  }
+  
+  .i4{
+    padding-top: 77px;
+  }
+  
+  .email{
+    display: flex;
+    padding-left: 69px;
+    padding-top: 7px;
+  }
+    
+  
+  /*footer*/
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 19px;
+    text-align: center;
+  }
