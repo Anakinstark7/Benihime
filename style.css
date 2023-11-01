@@ -68,6 +68,7 @@ body{
   
   .clickable-image {
     cursor: pointer;
+    border-radius: 10px;
   }
   
   .div-container {
