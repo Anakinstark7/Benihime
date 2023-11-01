@@ -64,6 +64,7 @@ body{
     justify-content: center;
     justify-content: space-between;
     padding-top: 121px;
+    margin: 1%;
   }
   
   .clickable-image {
